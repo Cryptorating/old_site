@@ -2,6 +2,12 @@
 white_papers: https://cryptorating.github.io/white_papers/
 ---
 
+# Cryptorating
+
+Cryptorating is the first cryptocurrency rating agency in the world.
+
+Explanation of the [crypto rating tiers](rating_tiers).
+
 ## Currencies
 
 | Name | Symbol | Notation | White paper | Announcement |
