@@ -11,7 +11,3 @@ white_papers: https://cryptorating.github.io/white_papers/
 | [Ethereum](https://www.ethereum.org) | ETH | **A+** | [WP](https://github.com/ethereum/wiki/wiki/White-Paper) [original WP]({{ page.white_papers }}Ethereum/Ethereum_white_paper.pdf) [Yellow paper]({{ page.white_papers }}Ethereum/Ethereum_yellow_paper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=428589.0) |
 | [IOTA](https://iota.org) | MIOTA | **A+** | [WP]({{ page.white_papers }}IOTA/IOTA_Whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1216479.0) |
 
-## Tokens
-
-| Name | Symbol | Market cap | Platform | White paper | Announcement |
-| - | - | - | - | - | - |
